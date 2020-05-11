@@ -1,5 +1,5 @@
 # miniJava-Compiler
-A miniJava compiler made using a subset of Java. This compiler was made in Java 1.8. For your convenience, I have provided an AWS [instance] (http://minijava-env.eba-vnw5cpj3.us-east-1.elasticbeanstalk.com/) that allows you to check your own miniJava code for Syntactic and Contextual Analysis.
+A miniJava compiler made using a subset of Java. This compiler was made in Java 1.8. For your convenience, I have provided an AWS [instance](http://minijava-env.eba-vnw5cpj3.us-east-1.elasticbeanstalk.com/) that allows you to check your own miniJava code for Syntactic and Contextual Analysis.
 
 ### Syntactic Analysis
 Checks the code to see if it follows the proper grammar.
