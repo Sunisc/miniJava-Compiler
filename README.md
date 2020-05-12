@@ -2,7 +2,7 @@
 A miniJava compiler made using a subset of Java. This compiler was made in Java 1.8. For your convenience, I have spun up an AWS [instance](http://minijava-env.eba-vnw5cpj3.us-east-1.elasticbeanstalk.com/) that allows you to check your own miniJava code for Syntactic and Contextual Analysis.
 
 ### Syntactic Analysis
-Checks the code to see if it follows the proper grammar.
+Checks the code to see if it follows the proper [grammar](https://github.com/Sunisc/miniJava-Compiler/blob/master/miniJavaGrammar.PNG).
 
 ### Contextual Analysis
 Checks the code to see if Identification, references and types all match. The compiler will also generate an abstract syntax tree.
