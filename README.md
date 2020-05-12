@@ -1,5 +1,5 @@
 # miniJava-Compiler
-A miniJava compiler made using a subset of Java. This compiler was made in Java 1.8. For your convenience, I have provided an AWS [instance](http://minijava-env.eba-vnw5cpj3.us-east-1.elasticbeanstalk.com/) that allows you to check your own miniJava code for Syntactic and Contextual Analysis.
+A miniJava compiler made using a subset of Java. This compiler was made in Java 1.8. For your convenience, I have spun up an AWS [instance](http://minijava-env.eba-vnw5cpj3.us-east-1.elasticbeanstalk.com/) that allows you to check your own miniJava code for Syntactic and Contextual Analysis.
 
 ### Syntactic Analysis
 Checks the code to see if it follows the proper grammar.
@@ -12,6 +12,8 @@ Simply paste the following code into the textbox. If you were to paste the follo
 
 *Code*
 
+![Code][demo1]
+
 ```
 class MainClass {
    public static void main (String [] args) {
@@ -22,6 +24,8 @@ class MainClass {
 ```
 
 *Result*
+
+![Result][demo2]
 
 ```
 Syntactic analysis ... 
@@ -48,3 +52,6 @@ ___
 
 ### Version
 1.0 miniJava Compiler by Surya - 5/11/2020
+
+[demo1]: https://github.com/Sunisc/miniJava-Compiler/blob/master/demo1.PNG "Home Page"
+[demo2]: https://github.com/Sunisc/miniJava-Compiler/blob/master/demo2.PNG "Results Page"
