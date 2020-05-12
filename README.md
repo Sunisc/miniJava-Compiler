@@ -27,23 +27,6 @@ class MainClass {
 
 ![Result][demo2]
 
-```
-Syntactic analysis ... 
-Syntactic analysis complete: VALID miniJava expression
-
-
-ContextualAnalysis ...
-  IdentificationChecking ... 
-
-  IdentificationChecking complete
-
-  TypeChecking ...
-
-  TypeChecking complete
-
-Contextual analysis complete: VALID references and types
-```
-
 ### Future updates
 
 Feature | Completion Status (on local machine) | AWS Status
