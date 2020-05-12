@@ -44,11 +44,11 @@ Contextual analysis complete: VALID references and types
 
 ### Future updates
 
-Update | Status 
---- | ---
-Print line numbers of errors | IN DEVELOPMENT
-Execute code | PLANNED
-Release Source Code | PLANNED
+Feature | Completion Status (on local machine) | AWS Status
+--- | --- | ---
+Print line numbers of errors | DONE | IN DEVELOPMENT
+Execute code | DONE | PLANNED
+Release Source Code | MAYBE ;) | MAYBE ;)
 ___
 
 ### Version
