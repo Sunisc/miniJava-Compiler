@@ -5,7 +5,7 @@ A miniJava compiler made using a subset of Java. This compiler was made in Java 
 Checks the code to see if it follows the proper grammar.
 
 ### Contextual Analysis
-Checks the code to see if Identification, references and types all match.
+Checks the code to see if Identification, references and types all match. The compiler will also generate an abstract syntax tree.
 
 ### Demo
 Simply paste the following code into the textbox. If you were to paste the following code, the output will be the following.
@@ -43,9 +43,12 @@ Contextual analysis complete: VALID references and types
 ```
 
 ### Future updates
-Print line numbers of errors - IN DEVELOPMENT
-Execute code - PLANNED
-Release Source Code - PLANNED
+
+Update | Status 
+--- | ---
+Print line numbers of errors | IN DEVELOPMENT
+Execute code | PLANNED
+Release Source Code | PLANNED
 ___
 
 ### Version
