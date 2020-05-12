@@ -25,6 +25,8 @@ class MainClass {
 
 *Result*
 
+![Result][demo2]
+
 ```
 Syntactic analysis ... 
 Syntactic analysis complete: VALID miniJava expression
